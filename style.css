@@ -1,0 +1,67 @@
+body {
+  background-color: #f3ecbb;
+}
+
+.container {
+  margin-top: 50px;
+}
+
+.card {
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  border-radius: 50px;
+}
+
+.card-header.text-center {
+  background-color: #e97777;
+  color: #fff;
+  font-weight: bold;
+  border-radius: 30px 30px 10px 10px;
+}
+
+.btn-primary {
+  background-color: #ff9f9f;
+  border: none;
+}
+
+.btn-primary:hover {
+  background-color: #c82333;
+}
+
+.table {
+  margin-top: 20px;
+}
+/* Style untuk tabel */
+.table {
+  width: 100%;
+  background-color: #fff;
+  border-radius: 50px;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+/* Style untuk header tabel */
+.table thead th {
+  background-color: #fff;
+  color: black;
+  font-weight: bold;
+}
+
+/* Style untuk isi tabel */
+.table tbody td {
+  font-size: 16px;
+}
+
+/* Style untuk tombol Delete */
+.deleteButton {
+  background-color: #ff9f9f; /* Warna latar belakang */
+  color: #fff; /* Warna teks */
+  border: none;
+  border-radius: 4px;
+  padding: 6px 12px;
+  cursor: pointer;
+  transition: background-color 0.3s;
+}
+
+/* Hover style untuk tombol Delete */
+.deleteButton:hover {
+  background-color: #c82333; /* Warna latar belakang saat hover */
+}
