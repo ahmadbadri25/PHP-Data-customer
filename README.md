@@ -37,7 +37,7 @@ Sebelum memulai, pastikan anda telah menyiapkan beberapa hal ini
 3. Beri nama sesuai keinginan kalian lalu taruh disitu contoh nama (data-customer)
 4. buka browser kalian lalu ketik localhost/data-customer
 
-# 🐱‍💻 Bahasa yang dipakai dan Apk Pendukung <a href="#dibangun" name="#dibangun"></a>
+# 🐱‍💻 Bahasa yang dipakai dan Apk Pendukung <a href="#dibangun" name="dibangun"></a>
 
 1. Bahasa Pemrogaman yang dipakai PHP,HTML,CSS,Javascript,JSON
 2. Text Editor Visual Studio Code
