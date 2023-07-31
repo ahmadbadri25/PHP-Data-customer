@@ -20,6 +20,7 @@
 # 📝 Daftar Isi
 
 - [Tentang saya](#tentang)
+- [Tree](#tree).
 - [Penggunaan](#penggunaan)
 - [Dibangun Menggunakan](#dibangun)
 - [Contact](#contact)
@@ -27,6 +28,18 @@
 # 🐱‍👓 Tentang Saya <a href="#tentang" name="tentang"></a>
 
 Mahasiswa yang tertarik dan bersemangat dalam bahasa program Web Front End Development. Selama masa kuliah, saya aktif membuat project kecil yang bisa melibatkan pengembangan web. Saya memiliki pengetahuan dan keterampilan dalam menggunakan HTML, CSS, PHP dan Javascript untuk menciptakan tampilan website yang menarik dan interaktf.
+
+# 🌲 Tree <a href="#tree" name="tree"></a>
+📦Data-customer<br>
+ ┣ 📂assets<br>
+ ┃ ┣ 📂css<br>
+ ┃ ┃ ┗ 📜style.css<br>
+ ┃ ┗ 📂js<br>
+ ┃ ┃ ┗ 📜script.js<br>
+ ┣ 📜data_customer.json<br>
+ ┣ 📜index.php<br>
+ ┣ 📜README.md<br>
+ ┗ 📜save_data.php<br>
 
 # 🐱‍🏍 Cara install Project ini <a href="#penggunaan" name="penggunaan"></a>
 
@@ -37,7 +50,7 @@ Sebelum memulai, pastikan anda telah menyiapkan beberapa hal ini
 3. Beri nama sesuai keinginan kalian lalu taruh disitu contoh nama (data-customer)
 4. buka browser kalian lalu ketik localhost/data-customer
 
-# 🐱‍💻 Bahasa yang dipakai dan Apk Pendukung <a href="#dibangun" name="#dibangun"></a>
+# 🐱‍💻 Bahasa yang dipakai dan Apk Pendukung <a href="#dibangun" name="dibangun"></a>
 
 1. Bahasa Pemrogaman yang dipakai PHP,HTML,CSS,Javascript,JSON
 2. Text Editor Visual Studio Code
