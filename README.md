@@ -30,16 +30,16 @@
 Mahasiswa yang tertarik dan bersemangat dalam bahasa program Web Front End Development. Selama masa kuliah, saya aktif membuat project kecil yang bisa melibatkan pengembangan web. Saya memiliki pengetahuan dan keterampilan dalam menggunakan HTML, CSS, PHP dan Javascript untuk menciptakan tampilan website yang menarik dan interaktf.
 
 # 🌲 Tree <a href="#tree" name="tree"></a>
-📦Data-customer
- ┣ 📂assets
- ┃ ┣ 📂css
- ┃ ┃ ┗ 📜style.css
- ┃ ┗ 📂js
- ┃ ┃ ┗ 📜script.js
- ┣ 📜data_customer.json
- ┣ 📜index.php
- ┣ 📜README.md
- ┗ 📜save_data.php
+📦Data-customer<br>
+ ┣ 📂assets<br>
+ ┃ ┣ 📂css<br>
+ ┃ ┃ ┗ 📜style.css<br>
+ ┃ ┗ 📂js<br>
+ ┃ ┃ ┗ 📜script.js<br>
+ ┣ 📜data_customer.json<br>
+ ┣ 📜index.php<br>
+ ┣ 📜README.md<br>
+ ┗ 📜save_data.php<br>
 
 # 🐱‍🏍 Cara install Project ini <a href="#penggunaan" name="penggunaan"></a>
 
