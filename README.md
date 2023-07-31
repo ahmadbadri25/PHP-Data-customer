@@ -20,6 +20,7 @@
 # 📝 Daftar Isi
 
 - [Tentang saya](#tentang)
+- [Tree](#tree).
 - [Penggunaan](#penggunaan)
 - [Dibangun Menggunakan](#dibangun)
 - [Contact](#contact)
@@ -27,6 +28,18 @@
 # 🐱‍👓 Tentang Saya <a href="#tentang" name="tentang"></a>
 
 Mahasiswa yang tertarik dan bersemangat dalam bahasa program Web Front End Development. Selama masa kuliah, saya aktif membuat project kecil yang bisa melibatkan pengembangan web. Saya memiliki pengetahuan dan keterampilan dalam menggunakan HTML, CSS, PHP dan Javascript untuk menciptakan tampilan website yang menarik dan interaktf.
+
+# 🌲 Tree <a href="#tree" name="tree"></a>
+📦Data-customer
+ ┣ 📂assets
+ ┃ ┣ 📂css
+ ┃ ┃ ┗ 📜style.css
+ ┃ ┗ 📂js
+ ┃ ┃ ┗ 📜script.js
+ ┣ 📜data_customer.json
+ ┣ 📜index.php
+ ┣ 📜README.md
+ ┗ 📜save_data.php
 
 # 🐱‍🏍 Cara install Project ini <a href="#penggunaan" name="penggunaan"></a>
 
